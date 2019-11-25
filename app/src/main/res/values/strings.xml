@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CountryQuiz</string>
+    <string name="RestartButton">Restart Quiz</string>
+    <string name="NextButton">Next</string>
+    <string name="MainQuestion">Which country is this?</string>
+    <string name="BonusQuestion">Bonus Question: What is the capital of this country?</string>
+    <string name="BQAnswer">Answer:</string>
+    <string name="Points">Points:</string>
+    <string name="FirstGuess">First Guess:</string>
+    <string name="NextGuess">Next Guess:</string>
+    <string name="Correct">Correct!</string>
+    <string name="Wrong">Wrong!</string>
+    <string name="PlayAgainButton">PLAY AGAIN</string>
+
+</resources>
